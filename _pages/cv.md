@@ -11,21 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Software Engineering, Vellore Institute of Technology, 2014 
+* M.S. in Natural Language Processing, University of Lorraine, 2018
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* October 2018 - present: Research Scholar
+  * Saarland University, Germany
+  * Research topics: Natural Language Generation, Noisy Channels
+  * Supervisors: Prof. Dr. Dietrich Klakow and Prof. Dr. Vera Demberg
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* February - August, 2018: Research Intern
+  * Loria, France
+  * Research topics: Semantic relations, representational learning
+  * Supervisor: Dr. Denis Paperno
   
 Skills
 ======
@@ -41,14 +40,8 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+    
+Tutoring
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
@@ -56,4 +49,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* One of the two PhD representative of SFB1102 collaboration center.
+
