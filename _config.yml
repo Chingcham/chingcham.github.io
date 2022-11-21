@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Anupama Chingacham"
   avatar           : "profile.png"
-  bio              : "An explorer in the space inter-connecting Language and Knowldege."
+  bio              : "Exploring the intertwined space of language and knowldege."
   location         : "Germany"
   employer         :
-  pubmed           : "http://www.sfb1102.uni-saarland.de"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=TTyMz08AAAAJ&hl=en"
-  email            :
+  email            : "achingacham [at] lsv [dot] uni-saarland [dot] de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
